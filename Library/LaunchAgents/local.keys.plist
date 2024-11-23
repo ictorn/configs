@@ -11,17 +11,14 @@
         <string>--set</string>
         <string>{"UserKeyMapping":[
             {
-<!--              caps lock -> F13-->
               "HIDKeyboardModifierMappingSrc": 0x700000039,
               "HIDKeyboardModifierMappingDst": 0x700000068
             },
             {
-<!--              right command -> right option-->
               "HIDKeyboardModifierMappingSrc": 0x7000000E7,
               "HIDKeyboardModifierMappingDst": 0x7000000E6
             },
             {
-<!--              non US backslash(\) -> grave accent and tilde-->
               "HIDKeyboardModifierMappingSrc": 0x700000064,
               "HIDKeyboardModifierMappingDst": 0x700000035
             }

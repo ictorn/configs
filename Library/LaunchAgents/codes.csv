@@ -1,0 +1,7 @@
+key,code
+"caps lock","0x700000039"
+"F13","0x700000068"
+"right command","0x7000000E7"
+"right option","0x7000000E6"
+"non US backslash (\)","0x700000064"
+"grave accent and tilde","0x700000035"
